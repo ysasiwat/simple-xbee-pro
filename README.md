@@ -7,6 +7,7 @@ This project provides a simple implementation for working with XBee Pro modules.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
+- [Device Setup](#device-setup)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Documentation](#documentation)
